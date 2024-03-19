@@ -275,6 +275,7 @@ Look for special extensions that could indicate a sensitive file. In addition to
 		server_admin_small/  
 		database_administration/  
 		system_administration/
+
 ## More Content
 
 - https://gist.github.com/jhaddix/2a08178b94e2fb37ca2bb47b25bcaed1 - Github Dorks
